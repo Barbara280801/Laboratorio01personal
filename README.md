@@ -59,6 +59,15 @@
 </<tr>
 </tdbody>
 </table>
+<div align="center">
+<theader>
+<tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">I. SOLUCION DE EJERCICIOS
+<tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO
+<tr><td colspan="6">III. CONCLUSIONES
+</div>
 
 #SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 -Primer repositorio en gitHub
