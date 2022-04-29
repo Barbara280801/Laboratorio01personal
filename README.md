@@ -60,6 +60,7 @@
 </tdbody>
 </table>
 
+<div align="center">
 <table>
 <theader>
 <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
@@ -72,6 +73,7 @@
 </tr>
 </tbody>
 </table>
+</div>
 
 #SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 -Primer repositorio en gitHub
