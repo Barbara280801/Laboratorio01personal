@@ -36,7 +36,7 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA PRESENTACIÓN::</td><td>28-Abr-2022</td><td>HORA PRESENTACIÓN:</td><td>7:39 pm</td><td>DURACIÓN:</td><td>01 horas</td>
+<td>FECHA PRESENTACIÓN::</td><td>28-Abr-2022</td><td>HORA PRESENTACIÓN:</td><td>7:39 pm</td><td>NOTA:</td><td></td>
 </tr>
 <tr>
 <tr><td>AlUMNO:</td><td colspan="5">BARBARA CARRILLO DAZA</td></tr>
@@ -60,29 +60,26 @@
 </tdbody>
 </table>
 
-## EJERCICIO/PROBLEMA RESUELTO POR EL DOCENTE
-Primer repositorio en GitHub
-- Creamos un nuevo proyecto en GitHub
-- Crearemos un repositorio local usando git init
-- Crearemos un archivo Readme.md con contenido Markup
-- Agregaremos este archivo al staging area usando git add .
-- Hacemos un primer commit en nuestro repositorio local git commit -m “mi primer proyecto en github”
-- Asociamos el repositorio local con el repositorio remoto git remote add origin https://github.com/rescobedoq/pweb2
-- Actualizamos el repositorio remoto con git push origin master
-- Ahora podemos verificar github que nuestro repositorio se actualizó con el archivo local.
+#SOLUCIÓN DE EJERCICIOS/PROBLEMAS
+-Primer repositorio en gitHub
+-En nuestro gitHub personal, subimos un hola mundo.
+-Subí un holaMundo.java
+-También el README.md con detalles
 
-## EJERCICIOS/PROBLEMAS PROPUESTOS
-- Cree una cuenta de usuario en github
-- Configure su cuenta de estudiante (https://education.github.com/pack).
-- Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un
-entero. (Forme grupos de 3 a 5 personas)
-
-## CUESTIONARIO
+##SOLUCIÓN DEL CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
+-Es importante porque a través de este sistema de control de versiones podremos trabajar en equipo, colaborativamente para realizar proyectos.
 
-## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
-- https://guides.github.com/
-- https://git-scm.com/book/es/v2
+##CONCLUSIONES
+-En este laboratorio nos familiaizamos con gitHub, sobre todo en el trabajo grupal.
+-Anteriormente, habíamos trabajado en gitHub pero personalmente, ahora es colaborativo.
+##RETROALIMENTACIÓN GENERAL
+-
+
+##REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
+https://guides.github.com/
+https://git-scm.com/book/es/v2
+
 
 
 
