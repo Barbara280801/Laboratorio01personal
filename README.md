@@ -67,6 +67,10 @@
 </theader>
 <tbody>
 <tr><td colspan="6">I. SOLUCION DE EJERCICIOS
+<tr><td>-Primer repositorio en gitHub
+-En nuestro gitHub personal, subimos un hola mundo.
+-Subí un holaMundo.java
+-También el README.md con detalles</td>
 <tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO
 <tr><td colspan="6">III. CONCLUSIONES
 </td>
