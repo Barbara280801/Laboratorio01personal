@@ -72,33 +72,31 @@
 -Subí un holaMundo.java
 -También el README.md con detalles</td>
 <tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO
+<tr><td>-¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
+-Es importante porque a través de este sistema de control de versiones podremos trabajar en equipo, colaborativamente para realizar proyectos.
+</td>
 <tr><td colspan="6">III. CONCLUSIONES
+<tr><td>
+-En este laboratorio nos familiarizamos con gitHub, sobre todo en el trabajo grupal.
+-Anteriormente, habíamos trabajado en gitHub pero personalmente, ahora es colaborativo.
+</td>
+</td>
+</tr>
+<tr><td colspan="6">IV. RETROALIMENTACIÓN GENERAL
+<tr><td>
+</td>
+</td>
+</tr>
+<tr><td colspan="6">V.REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS 
+<tr><td> - https://guides.github.com/
+ - https://git-scm.com/book/es/v2
+</td>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 
-#SOLUCIÓN DE EJERCICIOS/PROBLEMAS
--Primer repositorio en gitHub
--En nuestro gitHub personal, subimos un hola mundo.
--Subí un holaMundo.java
--También el README.md con detalles
-
-##SOLUCIÓN DEL CUESTIONARIO
--¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
--Es importante porque a través de este sistema de control de versiones podremos trabajar en equipo, colaborativamente para realizar proyectos.
-
-##CONCLUSIONES
--En este laboratorio nos familiarizamos con gitHub, sobre todo en el trabajo grupal.
--Anteriormente, habíamos trabajado en gitHub pero personalmente, ahora es colaborativo.
-
-##RETROALIMENTACIÓN GENERAL
--
-
-##REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
- - https://guides.github.com/
- - https://git-scm.com/book/es/v2
 
 
 
